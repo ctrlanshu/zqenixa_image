@@ -1,0 +1,2241 @@
+{
+    "packages": [
+        {
+            "package_id": "PKG001",
+            "package_name": "LifeStyle Packages",
+            "category": "LifeStyle Packages",
+            "description": "",
+            "recommended_for": [
+                {
+                    "id": "1",
+                    "package_name": "Diabetes",
+                    "image": "",
+                    "description": "Type 2 diabetes is a chronic condition where the body becomes resistant to insulin or doesn't produce enough insulin, leading to high blood sugar levels. Over time, this can result in serious health complications, such as heart disease, nerve damage, kidney issues, and vision problems. Unlike type 1 diabetes, which is autoimmune, type 2 is often linked to lifestyle factors like obesity, inactivity, and poor diet, although genetics also play a role. Managing type 2 diabetes typically involves lifestyle changes, such as diet and exercise, and sometimes medication or insulin therapy.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "Xpert health Diabetes & Lipid profile",
+                            "test_sample": "",
+                            "test_price": "1299",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the body becomes resistant to insulin or does not make enough insulin. Incidence: Prevalence of Diabetes is almost 9.3% between the age group of 18 – 69. Type 2 diabetes contributes to 90% of the overall Diabetes affected population (Source: National NCD monitoring survey 2018)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "GLUCOSE, FASTING (1)",
+                                    "test_sample": [
+                                        "Glucose, Fasting"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HbA1c (Glycated Hemoglobin)",
+                                        "Estimated Average Glucose (eAG)",
+                                        "Comments"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "GLUCOSE, POST PRANDIAL (PP), 2 HOURS (POST MEAL) (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, POST PRANDIAL (PP), 2 HOURS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "UREA - SERUM (1)",
+                                    "test_sample": [
+                                        "UREA"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "CREATININE - SERUM (2)",
+                                    "test_sample": [
+                                        "CREATININE",
+                                        "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Cholesterol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "test_name": "XPERT HEALTH DIABETES ADVANCED",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "999",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the body becomes resistant to insulin or does not make enough insulin. Incidence: Prevalence of Diabetes is almost 9.3% between the age group of 18 – 69. Type 2 diabetes contributes to 90% of the overall Diabetes affected population (Source: National NCD monitoring survey 2018)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "GLUCOSE, FASTING (1)",
+                                    "test_sample": [
+                                        "Glucose, Fasting"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HbA1c (Glycated Hemoglobin)",
+                                        "Estimated Average Glucose (eAG)",
+                                        "Comments"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "TRIGLYCERIDES - SERUM (1)",
+                                    "test_sample": [
+                                        "TRIGLYCERIDES"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "CHOLESTEROL - SERUM (1)",
+                                    "test_sample": [
+                                        "TOTAL CHOLESTEROL"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "BLOOD UREA NITROGEN (BUN) (2)",
+                                    "test_sample": [
+                                        "UREA.",
+                                        "BLOOD UREA NITROGEN"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "CREATININE - SERUM (2)",
+                                    "test_sample": [
+                                        "CREATININE",
+                                        ".eGFR - ESTIMATED GLOMERULAR FILTRATION RATE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                                    "test_sample": [
+                                        "INSULIN (FASTING)",
+                                        "FASTING GLUCOSE",
+                                        "BETA CELL FUNCTION (%B)",
+                                        "INSULIN SENSITIVITY (%S)",
+                                        "HOMA2 IR INDEX",
+                                        "QUICKI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "test_name": "XPERT HEALTH DIABETES BASIC",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "699",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the body becomes resistant to insulin or does not make enough insulin. Incidence: Prevalence of Diabetes is almost 9.3% between the age group of 18 – 69. Type 2 diabetes contributes to 90% of the overall Diabetes affected population (Source: National NCD monitoring survey 2018)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "GLUCOSE, FASTING (1)",
+                                    "test_sample": [
+                                        "Glucose, Fasting"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "GLUCOSE, POST PRANDIAL (PP), 2 HOURS (POST MEAL) (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, POST PRANDIAL (PP), 2 HOURS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "test_name": "XPERT HEALTH DIABETES COMPREHENSIVE",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "2699",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the body becomes resistant to insulin or does not make enough insulin. Incidence: Prevalence of Diabetes is almost 9.3% between the age group of 18 – 69. Type 2 diabetes contributes to 90% of the overall Diabetes affected population (Source: National NCD monitoring survey 2018)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                                    "test_sample": [
+                                        "Bilirubin, Total",
+                                        "Bilirubin, Conjugated (Direct)",
+                                        "Bilirubin, Unconjugated (Indirect)",
+                                        "Alanine Aminotransferase (ALT / SGPT)",
+                                        "Aspartate Aminotransferase (AST / SGOT)",
+                                        "AST (SGOT) / ALT (SGPT) Ratio (De Ritis Ratio)",
+                                        "Alkaline Phosphatase",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                                    "test_sample": [
+                                        "Creatinine",
+                                        "eGFR (Estimated Glomerular Filtration Rate)",
+                                        "Urea",
+                                        "Blood Urea Nitrogen (BUN)",
+                                        "Uric Acid",
+                                        "Calcium",
+                                        "Phosphorus, Inorganic",
+                                        "Sodium",
+                                        "Potassium",
+                                        "Chloride",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Cholesterol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                                    "test_sample": [
+                                        "Insulin (Fasting)",
+                                        "Fasting Glucose",
+                                        "Beta Cell Function (%B)",
+                                        "Insulin Sensitivity (%S)",
+                                        "HOMA2-IR Index",
+                                        "QUICKI (Quantitative Insulin Sensitivity Check Index)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "C - PEPTIDE (FASTING) (1)",
+                                    "test_sample": [
+                                        "C - PEPTIDE (FASTING)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "VITAMIN B12 (1)",
+                                    "test_sample": [
+                                        "VITAMIN B12"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "MICROALBUMIN (MAU) - URINE (3)",
+                                    "test_sample": [
+                                        "Microalbumin (MAU) – Spot Urine",
+                                        "Creatinine – Urine",
+                                        "Urine Microalbumin / Creatinine Ratio"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "package_name": "Cardiovascular Diseases ",
+                    "image": "",
+                    "description": "Cardiovascular diseases (CVDs) encompass a range of conditions affecting the heart and blood vessels, including coronary artery disease, heart attack, stroke, heart failure, and hypertension. These diseases are the leading cause of death globally. The primary causes of CVDs include unhealthy lifestyle choices such as poor diet, lack of physical activity, smoking, and excessive alcohol consumption. Other significant risk factors are high blood pressure, high cholesterol, diabetes, obesity, and genetic predisposition. Symptoms of cardiovascular diseases can vary depending on the specific condition but may include chest pain, shortness of breath, fatigue, irregular heartbeats, and swelling in the legs and feet. Preventative measures include adopting a heart-healthy diet rich in fruits, vegetables, whole grains, and lean proteins, engaging in regular physical activity, maintaining a healthy weight, avoiding tobacco products, and managing stress. Regular health check-ups and monitoring of blood pressure, cholesterol levels, and blood sugar levels are also crucial for early detection and management of cardiovascular diseases. Taking these steps can significantly reduce the risk of developing CVDs and improve overall heart health.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "XPERT HEALTH CARDIAC BASIC",
+                            "test_sample": "Blood",
+                            "test_price": "1099",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. Blood flow to the heart, brain or body can be reduced because of a blood clot (thrombosis) or build-up of fatty deposits inside an artery, leading to the artery hardening and narrowing (atherosclerosis). The most important behavioral risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol.</p> <p>Incidence: Prevalence of CVDs is 29.4% for adults of age 45 and above (Source: Clinical Epidemiology and Global Health Volume 13)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Cholesterol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "CREATINE KINASE - SERUM (CPK) (1)",
+                                    "test_sample": [
+                                        "CREATINE KINASE - SERUM (CPK)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HbA1c (Glycated Hemoglobin)",
+                                        "Estimated Average Glucose (eAG)",
+                                        "Comments"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "GLUCOSE, FASTING (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, FASTING"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "HS-CRP (HIGH SENSITIVITY C-REACTIVE PROTEIN) (1)",
+                                    "test_sample": [
+                                        "HS-CRP (HIGH SENSITIVITY C-REACTIVE PROTEIN)"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "test_name": "XPERT HEALTH CARDIAC COMPREHENSIVE",
+                            "test_sample": "Blood",
+                            "test_price": "3599",
+                            "pre_test_information": "",
+                            "test_result_time": "2 Days",
+                            "test_description": "Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. Blood flow to the heart, brain or body can be reduced because of a blood clot (thrombosis) or build-up of fatty deposits inside an artery, leading to the artery hardening and narrowing (atherosclerosis). The most important behavioral risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol.</p> <p>Incidence: Prevalence of CVDs is 29.4% for adults of age 45 and above (Source: Clinical Epidemiology and Global Health Volume 13)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Cholesterol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "CREATINE KINASE - SERUM (CPK) (1)",
+                                    "test_sample": [
+                                        "CK CREATINE KINASE - (CPK)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "HS-CRP (HIGH SENSITIVITY C-REACTIVE PROTEIN) (1)",
+                                    "test_sample": [
+                                        "HS-CRP (HIGH SENSITIVITY C-REACTIVE PROTEIN)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "LIPOPROTEIN A (LP-A) (1)",
+                                    "test_sample": [
+                                        "LIPOPROTEIN a (Lp-a)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "APOLIPOPROTEIN A1 AND B (3)",
+                                    "test_sample": [
+                                        "APO-A1",
+                                        "APO-B",
+                                        "APO B/A1 RATIO"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "GLUCOSE, FASTING (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, FASTING"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "HOMOCYSTEINE - PLASMA (1)",
+                                    "test_sample": [
+                                        "HOMOCYSTEINE - PLASMA"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "package_name": "Hypertension",
+                    "image": "",
+                    "description": "Hypertension, commonly known as high blood pressure, is a chronic medical condition where the force of blood against the artery walls is consistently too high. This persistent elevation in pressure can damage blood vessels over time, increasing the risk of serious health problems such as heart attack, stroke, kidney disease, and heart failure. Hypertension often develops gradually and may not present with noticeable symptoms in its early stages, making regular blood pressure monitoring essential for early detection. Lifestyle factors play a significant role in the development of hypertension, including a diet high in sodium, lack of physical activity, obesity, excessive alcohol consumption, and smoking. Other contributing factors include age, genetics, and certain medical conditions. Management of hypertension typically involves a combination of lifestyle modifications, such as adopting a heart-healthy diet, maintaining a healthy weight, regular exercise, and limiting sodium intake, along with medication when necessary. Early diagnosis and consistent management can help control blood pressure levels and reduce the risk of complications.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "HYPERTENSION PACKAGE",
+                            "test_sample": "Blood,Urine",
+                            "test_price": "1899",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "High blood pressure (hypertension) can quietly damage the body for years before symptoms develop. Uncontrolled high blood pressure can lead to disability, a poor quality of life, or even a deadly heart attack or stroke.</p> <p>Incidence: One in four adults in India suffers from hypertension and only 10% of patients have their blood pressure under control, according to a report by the India Council for Medical Research.",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "BLOOD UREA NITROGEN (BUN) (2)",
+                                    "test_sample": [
+                                        "UREA",
+                                        "BLOOD UREA NITROGEN"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "CREATININE - SERUM (2)",
+                                    "test_sample": [
+                                        "CREATININE",
+                                        "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "URIC ACID - SERUM (1)",
+                                    "test_sample": [
+                                        "URIC ACID"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "ELECTROLYTES - SERUM (3)",
+                                    "test_sample": [
+                                        "SODIUM",
+                                        "POTASSIUM",
+                                        "CHLORIDE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "ESTIMATED GLOMERULAR FILTRATION RATE (EGFR) WITH CREATININE (2)",
+                                    "test_sample": [
+                                        "CREATININE",
+                                        "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "LIPID PROFILE (10)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "Total Cholesterol / HDL Ratio",
+                                        "LDL / HDL Ratio",
+                                        "Cholesterol / Non-HDL Ratio",
+                                        "Apo B / Apo A1 Ratio"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "package_name": "Gut Health Packages",
+                    "image": "",
+                    "description": "Gut health refers to the balance and function of the microorganisms living in your digestive tract, collectively known as the gut microbiota. This complex ecosystem, comprising bacteria, viruses, fungi, and other microbes, plays a crucial role in overall health beyond digestion. A healthy gut microbiota aids in breaking down food, absorbing nutrients, producing essential vitamins, and supporting immune function. Imbalances in gut health, often caused by poor diet, stress, antibiotic use, or illness, can lead to various digestive issues such as bloating, gas, constipation, and diarrhea. Furthermore, gut health is increasingly linked to broader health outcomes, including mental well-being, skin health, and chronic disease risk. Maintaining a balanced gut microbiome through a fiber-rich diet, probiotics, and lifestyle adjustments can promote digestive regularity and support overall health.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "HEALTH GUT HEALTH PACKAGE",
+                            "test_sample": "Blood",
+                            "test_price": "2999",
+                            "pre_test_information": "",
+                            "test_result_time": "2 Days",
+                            "test_description": "Good gut health occurs when you have a balance between the good (helpful) and bad (potentially harmful) bacteria and yeast in your digestive system. Poor nutrition, stress and long term use of antibiotics can affect the gut health. Poor gut health can affect immune function, hormone levels, weight and can cause various diseases. Most common diseases associated with gut health are Irritable Bowel Syndrome (IBS) and Small Intestinal Bacterial Outgrowth (SIBO).",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "AMYLASE - SERUM (1)",
+                                    "test_sample": [
+                                        "AMYLASE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "LIPASE - SERUM (1)",
+                                    "test_sample": [
+                                        "LIPASE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                                    "test_sample": [
+                                        "BILIRUBIN, TOTAL",
+                                        "BILIRUBIN CONJUGATED (DIRECT)",
+                                        "BILIRUBIN (INDIRECT)",
+                                        "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                        "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                        "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                        "ALKALINE PHOSPHATASE",
+                                        "PROTEIN, TOTAL",
+                                        "ALBUMIN",
+                                        "GLOBULIN",
+                                        "A/G RATIO"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "GAMMA GLUTAMYL TRANFERASE (GGT) (1)",
+                                    "test_sample": [
+                                        "GAMMA GLUTAMYL TRANSPEPTIDASE (GGT)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "ANTI HELICOBACTER PYLORI IgG (1)",
+                                    "test_sample": [
+                                        "ANTI HELICOBACTER PYLORI IgG"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "TISSUE TRANSGLUTAMINASE (TTG) IGG (1)",
+                                    "test_sample": [
+                                        "TISSUE TRANSGLUTAMINASE ANTIBODY - IGG"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "TOTAL IGE (1)",
+                                    "test_sample": [
+                                        "IMMUNOGLOBULIN E (IgE) TOTAL"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "package_name": "Bone Health Packages",
+                    "image": "",
+                    "description": "Bone health is essential for overall well-being and mobility. Healthy bones provide structure, protect organs, anchor muscles, and store calcium. Maintaining bone health throughout life is crucial to prevent conditions like osteoporosis, a disease where bones become weak and brittle, increasing the risk of fractures. Key factors that contribute to bone health include adequate intake of calcium and vitamin D, regular weight-bearing and muscle-strengthening exercises, and healthy lifestyle choices such as not smoking and limiting alcohol consumption. Calcium-rich foods like dairy products, leafy green vegetables, and fortified foods, along with sensible sun exposure or supplements for vitamin D, are vital for bone maintenance. Regular physical activity, especially activities like walking, running, and resistance training, helps build and preserve bone density. Additionally, avoiding smoking and excessive alcohol can further protect bone health. Taking proactive steps to maintain bone health can lead to a stronger, more resilient body, reducing the risk of bone-related issues as we age.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "BONE HEALTH PACKAGE",
+                            "test_sample": "Blood",
+                            "test_price": "2999",
+                            "pre_test_information": "",
+                            "test_result_time": "2 Days",
+                            "test_description": "Bone health is affected by a number of factors like Calcium, Physical activity, Tobacco or alcohol use, gender, obesity, family history, hormone levels, easting disorders and can be also due to some medications.</p> <p>Incidence: Osteoporosis is the most common disease affecting bone and Indian population has 18.3% of such cases. Female are at slightly higher risk than males. (Source: IJORO)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "VITAMIN B12 (1)",
+                                    "test_sample": [
+                                        "VITAMIN B12"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "CALCIUM - SERUM (1)",
+                                    "test_sample": [
+                                        "CALCIUM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "THYROID STIMULATING HORMONE (TSH) (1)",
+                                    "test_sample": [
+                                        "TSH (Ultrasensitive/4thGen)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "RHEUMATOID FACTOR (RA) - LATEX AGGLUTINATION (2)",
+                                    "test_sample": [
+                                        "RHEUMATOID FACTOR (RA)",
+                                        "TITER"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "C-REACTIVE PROTEIN (CRP) - QUALITATIVE (2)",
+                                    "test_sample": [
+                                        "C-REACTIVE PROTEIN (QUALITATIVE)",
+                                        "TITER"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "PHOSPHORUS (INORGANIC) - SERUM (1)",
+                                    "test_sample": [
+                                        "PHOSPHORUS, INORGANIC"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "ANTI CCP (CYCLIC CITRULLINATED PEPTIDE) (1)",
+                                    "test_sample": [
+                                        "ANTI CCP (CYCLIC CITRULLINATED PEPTIDE)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.10",
+                                    "test_name": "URIC ACID - SERUM (1)",
+                                    "test_sample": [
+                                        "URIC ACID"
+                                    ]
+                                },
+                                {
+                                    "id": "1.11",
+                                    "test_name": "ANTI NUCLEAR ANTIBODY (ANA) (1)",
+                                    "test_sample": [
+                                        "ANTI NUCLEAR ANTIBODY (ANA)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.12",
+                                    "test_name": "ALKALINE PHOSPHATASE - SERUM (1)",
+                                    "test_sample": [
+                                        "ALKALINE PHOSPHATASE"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "package_name": "Alcohol Health Packages",
+                    "image": "",
+                    "description": "Alcohol consumption refers to the drinking of beverages containing ethanol, commonly known as alcohol. While moderate drinking can be part of social and cultural activities, excessive alcohol consumption poses serious health risks. Excessive drinking includes binge drinking, heavy drinking, and any drinking by pregnant women or individuals under the legal drinking age. Alcohol affects every organ in the body, primarily the brain, liver, heart, and pancreas. It can lead to the development of chronic diseases such as liver cirrhosis, pancreatitis, cardiovascular diseases, and various cancers, including those of the liver, mouth, throat, esophagus, and breast. Additionally, excessive alcohol consumption can weaken the immune system, making the body more susceptible to infections. It can also impair judgment and coordination, increasing the risk of accidents and injuries.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "ALCOHOL IMPACT PACKAGE",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "2599",
+                            "pre_test_information": "",
+                            "test_result_time": "2 Days",
+                            "test_description": "Excessive alcohol use can lead to the development of chronic diseases and other serious problems including High blood pressure, heart disease, stroke, liver disease, weakening of the immune system, dementia and mental health problems, including depression and anxiety. Incidence: Alcohol use is about 23% to 74% in male and about 24% to 48% in females (Source: National Health Portal of India)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "TOTAL CHOLESTEROL",
+                                        "TRIGLYCERIDES",
+                                        "HDL CHOLESTEROL",
+                                        "NON-HDL CHOLESTEROL",
+                                        "LDL CHOLESTEROL",
+                                        "VLDL CHOLESTEROL",
+                                        "CHOL / HDL RATIO",
+                                        "ATHEROGENIC INDEX (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                                    "test_sample": [
+                                        "BILIRUBIN, TOTAL",
+                                        "BILIRUBIN CONJUGATED (DIRECT)",
+                                        "BILIRUBIN (INDIRECT)",
+                                        "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                        "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                        "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                        "ALKALINE PHOSPHATASE",
+                                        "PROTEIN, TOTAL",
+                                        "ALBUMIN",
+                                        "GLOBULIN",
+                                        "A/G RATIO"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "GAMMA GLUTAMYL TRANFERASE (GGT) (1)",
+                                    "test_sample": [
+                                        "GAMMA GLUTAMYL TRANSPEPTIDASE (GGT)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                                    "test_sample": [
+                                        "CREATININE",
+                                        ".eGFR - ESTIMATED GLOMERULAR FILTRATION RATE",
+                                        "UREA",
+                                        "BLOOD UREA NITROGEN",
+                                        "URIC ACID",
+                                        "CALCIUM",
+                                        "PHOSPHORUS, INORGANIC",
+                                        "SODIUM",
+                                        "POTASSIUM",
+                                        "CHLORIDE",
+                                        "PROTEIN, TOTAL",
+                                        "ALBUMIN",
+                                        "GLOBULIN",
+                                        "A/G RATIO"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "VITAMIN B12 (1)",
+                                    "test_sample": [
+                                        "VITAMIN B12"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.10",
+                                    "test_name": "APOLIPOPROTEIN A1 AND B (3)",
+                                    "test_sample": [
+                                        "APO-A1",
+                                        "APO-B",
+                                        "APO B/A1 RATIO"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "package_name": "Cancer Health Packages",
+                    "image": "",
+                    "description": "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. These cells can invade surrounding tissues and spread to other parts of the body through the bloodstream or lymphatic system. Cancer can affect any part of the body, including the lungs, breasts, colon, prostate, and skin. Common risk factors include smoking, excessive alcohol consumption, obesity, radiation exposure, and certain viral infections. Early detection and treatment are crucial for effective cancer management. Treatment options may include surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy. Preventive measures include maintaining a healthy lifestyle, regular screenings, and avoiding risk factors.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "CANCER SCREENING FEMALE",
+                            "test_sample": "Blood",
+                            "test_price": "3699",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Cancer is a disease in which some of the body’s cells grow uncontrollably and spread to other parts of the body. It is a is a genetic disease caused by changes to genes that control the way our cells function, especially how they grow and divide. There are more than 100 types of cancer and it is the second-leading cause of death in the world.Incidence: The cancer burden of India is 26.7 million and is expected to increase to 29.8 million by 2025 (Source: National Cancer Registry Program 2021)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "CARCINO EMBRYONIC ANTIGEN (CEA) (1)",
+                                    "test_sample": [
+                                        "CARCINO EMBRYONIC ANTIGEN (CEA)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "CA 19.9  (1)",
+                                    "test_sample": [
+                                        "CA 19.9"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                                    "test_sample": [
+                                        "Bilirubin, Total",
+                                        "Bilirubin, Conjugated (Direct)",
+                                        "Bilirubin, Unconjugated (Indirect)",
+                                        "Alanine Aminotransferase (ALT / SGPT)",
+                                        "Aspartate Aminotransferase (AST / SGOT)",
+                                        "AST (SGOT) / ALT (SGPT) Ratio (De Ritis Ratio)",
+                                        "Alkaline Phosphatase",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                                    "test_sample": [
+                                        "Creatinine",
+                                        "eGFR (Estimated Glomerular Filtration Rate)",
+                                        "Urea",
+                                        "Blood Urea Nitrogen (BUN)",
+                                        "Uric Acid",
+                                        "Calcium",
+                                        "Phosphorus, Inorganic",
+                                        "Sodium",
+                                        "Potassium",
+                                        "Chloride",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "ALPHA FETOPROTEIN (AFP) (1)",
+                                    "test_sample": [
+                                        "ALPHA FETO PROTEIN (AFP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "CA 125 (1)",
+                                    "test_sample": [
+                                        "CA -125"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "test_name": "CANCER SCREENING MALE",
+                            "test_sample": "Blood",
+                            "test_price": "3799",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Cancer screening is a process of identifying and diagnosing cancer at an early stage, before it has spread to other parts of the body. This can help to prevent cancer from developing and can improve the chances of successful treatment. Cancer screening can be done through a variety of methods, including physical exams, blood tests, and imaging tests. It is important to note that cancer screening is not a substitute for regular medical checkups and should be used in conjunction with other screening methods.",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "CARCINO EMBRYONIC ANTIGEN (CEA) (1)",
+                                    "test_sample": [
+                                        "CARCINO EMBRYONIC ANTIGEN (CEA)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "CA 19.9 (1)",
+                                    "test_sample": [
+                                        "CA 19-9"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "TOTAL PROSTATE SPECIFIC ANTIGEN (PSA) - ULTRASENSITIVE (1)",
+                                    "test_sample": [
+                                        "TOTAL PROSTATIC SPECIFIC ANTIGEN (tPSA)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                                    "test_sample": [
+                                        "Bilirubin, Total",
+                                        "Bilirubin, Conjugated (Direct)",
+                                        "Bilirubin, Unconjugated (Indirect)",
+                                        "Alanine Aminotransferase (ALT / SGPT)",
+                                        "Aspartate Aminotransferase (AST / SGOT)",
+                                        "AST (SGOT) / ALT (SGPT) Ratio (De Ritis Ratio)",
+                                        "Alkaline Phosphatase",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                                    "test_sample": [
+                                        "Creatinine",
+                                        "eGFR (Estimated Glomerular Filtration Rate)",
+                                        "Urea",
+                                        "Blood Urea Nitrogen (BUN)",
+                                        "Uric Acid",
+                                        "Calcium",
+                                        "Phosphorus, Inorganic",
+                                        "Sodium",
+                                        "Potassium",
+                                        "Chloride",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "ALPHA FETOPROTEIN (AFP) (1)",
+                                    "test_sample": [
+                                        "ALPHA FETO PROTEIN (AFP)"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "package_name": "Depression Health Packages",
+                    "image": "",
+                    "description": "Depression is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and a lack of interest in activities once enjoyed. It can significantly impact daily functioning and overall well-being. Common symptoms include persistent sadness, loss of interest in activities, fatigue, difficulty concentrating, insomnia or excessive sleep, appetite changes, and thoughts of suicide. Treatment options may include medication, psychotherapy, lifestyle changes, and support groups. Preventive measures include maintaining a healthy lifestyle, practicing stress-reduction techniques, and seeking professional help when needed.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "DEPRESSION PACKAGE",
+                            "test_sample": "Blood",
+                            "test_price": "1999",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest and is also called major depressive disorder or clinical depression. It affects how you feel, think and behave and can lead to a variety of emotional and physical problems.Incidence: National Mental Health Survey revealed that nearly 15% Indian adults need active intervention for one or more mental health issues and one in 20 Indians suffers from depression",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                                    "test_sample": [
+                                        "ESR"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                                    "test_sample": [
+                                        "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                        "THYROXINE (T4, TOTAL)",
+                                        "TSH (Ultrasensitive/4thGen)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "GLUCOSE, RANDOM (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, RANDOM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "CORTISOL - RANDOM (1)",
+                                    "test_sample": [
+                                        "CORTISOL (RANDOM)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Cholesterol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "package_name": "Nutrition Disorder Health Packages",
+                    "image": "",
+                    "description": "Nutrition disorders are conditions caused by an imbalance in nutrient intake, including undernutrition, overnutrition, and vitamin or mineral deficiencies, which can affect overall health and body functions.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": " NUTRIENT DEFICIENCY PANEL",
+                            "test_sample": "Blood",
+                            "test_price": "2599",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Nutritional deficiencies occur when a person’s nutrient intake consistently falls below the recommended requirement. Nutritional deficiencies can lead to a variety of health problems. Most of the nutritional deficiency diseases are caused by lack of protein vitamins, minerals, carbohydrates and fats. Incidence: 35.5% Indian Children and 18.7% women suffer from malnutrition (Source: National Family Health Survey (NFHS-5)",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "VITAMIN B12 (1)",
+                                    "test_sample": [
+                                        "VITAMIN B12"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "FOLIC ACID (1)",
+                                    "test_sample": [
+                                        "FOLIC ACID / FOLATE - SERUM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "CALCIUM - SERUM (1)",
+                                    "test_sample": [
+                                        "CALCIUM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "PROTEIN TOTAL (PROTEIN, ALBUMIN, GLOBULIN, A/G) (4)",
+                                    "test_sample": [
+                                        "PROTEIN, TOTAL",
+                                        "ALBUMIN",
+                                        "GLOBULIN",
+                                        "A/G RATIO"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "PHOSPHORUS (INORGANIC) - SERUM (1)",
+                                    "test_sample": [
+                                        "PHOSPHORUS, INORGANIC"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "FERRITIN (1)",
+                                    "test_sample": [
+                                        "FERRITIN"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "MAGNESIUM - SERUM (1)",
+                                    "test_sample": [
+                                        "MAGNESIUM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.10",
+                                    "test_name": "IRON STUDIES (IRON + TIBC) (4)",
+                                    "test_sample": [
+                                        "IRON",
+                                        "TOTAL IRON BINDING CAPACITY (TIBC)",
+                                        "UNSATURATED IRON BINDING CAPACITY (UIBC)",
+                                        "% OF TRANSFERRIN SATURATION"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "package_name": "Obesity Health Packages",
+                    "image": "",
+                    "description": "Obesity is a medical condition characterized by excessive body fat that can negatively impact health. It's typically measured using body mass index (BMI), with a BMI of 30 or higher considered obese. Obesity increases the risk of numerous health problems, including heart disease, type 2 diabetes, high blood pressure, stroke, and certain cancers. It often results from a combination of factors, such as poor diet, lack of physical activity, genetics, and hormonal influences. Effective treatment typically involves lifestyle changes like improved diet, increased physical activity, and, in some cases, medications or surgery.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "OBESITY PACKAGE",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "3999",
+                            "pre_test_information": "",
+                            "test_result_time": "2 Days",
+                            "test_description": "Obesity is a complex disease involving an excessive amount of body fat. Obesity is not just a cosmetic concern. It is a medical problem that increases the risk of other diseases and health problems, such as heart disease, diabetes, high blood pressure and certain cancers. Incidence: As per National Family Health Survey (NFHS-5) data, one in four people in India are overweight.",
+                            "avilable_type": "Home Collection Available",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "TOTAL CHOLESTEROL",
+                                        "TRIGLYCERIDES",
+                                        "HDL CHOLESTEROL",
+                                        "NON-HDL CHOLESTEROL",
+                                        "LDL CHOLESTEROL",
+                                        "VLDL CHOLESTEROL",
+                                        "CHOL / HDL RATIO",
+                                        "ATHEROGENIC INDEX (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH)",
+                                    "test_sample": [
+                                        "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                        "THYROXINE (T4, TOTAL)",
+                                        "TSH (Ultrasensitive/4thGen)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "LEPTIN - SERUM (1)",
+                                    "test_sample": [
+                                        "LEPTIN"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) ",
+                                    "test_sample": [
+                                        "Creatinine",
+                                        "eGFR (Estimated Glomerular Filtration Rate)",
+                                        "Urea",
+                                        "Blood Urea Nitrogen (BUN)",
+                                        "Uric Acid",
+                                        "Calcium",
+                                        "Phosphorus, Inorganic",
+                                        "Sodium",
+                                        "Potassium",
+                                        "Chloride",
+                                        "Total Protein",
+                                        "Albumin",
+                                        "Globulin",
+                                        "A/G Ratio"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                                    "test_sample": [
+                                        "INSULIN (FASTING)",
+                                        "FASTING GLUCOSE",
+                                        "BETA CELL FUNCTION (%B)",
+                                        "INSULIN SENSITIVITY (%S)",
+                                        "HOMA2 IR INDEX",
+                                        "QUICKI"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "11",
+                    "package_name": "Respiratory Disorders Health Packages",
+                    "image": "",
+                    "description": "Respiratory conditions affect the lungs and airways, making breathing difficult. Common respiratory disorders include asthma, chronic obstructive pulmonary disease (COPD), bronchitis, and pneumonia. These conditions can lead to symptoms such as shortness of breath, coughing, wheezing, and chest tightness. Respiratory illnesses may be caused by infections, smoking, allergens, or chronic lung diseases. Testing for respiratory conditions often includes a pulmonary function test (PFT), which measures lung capacity and airflow, and spirometry, which checks for conditions like asthma or COPD.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "POLLUTION IMPACT PACKAGE",
+                            "test_sample": "Blood",
+                            "test_price": "2699",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Pollution impact tests help assess how exposure to environmental pollutants affects your health. These tests can detect early signs of damage to organs like the lungs, heart, and kidneys, and identify inflammation or oxidative stress caused by pollution. Regular monitoring can help you understand your risk levels and take preventive measures to protect your health.",
+                            "avilable_type": "",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "ALLERGY PHADIATOP (IMMUNOCAP) - ADULT (1)",
+                                    "test_sample": [
+                                        "PHADIATOP"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "TOTAL IGE (1)",
+                                    "test_sample": [
+                                        "IMMUNOGLOBULIN E (IgE) TOTAL"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1) ",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "GLUCOSE, RANDOM (1)",
+                                    "test_sample": [
+                                        "GLUCOSE, RANDOM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "C-REACTIVE PROTEIN (CRP) - QUALITATIVE (2)",
+                                    "test_sample": [
+                                        "C-REACTIVE PROTEIN (QUALITATIVE)",
+                                        "TITER"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                                    "test_sample": [
+                                        "ESR"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "12",
+                    "package_name": "Sexual Wellness Health Packages",
+                    "image": "",
+                    "description": "Sexual wellness encompasses physical, emotional, and psychological well-being related to sexual health. It involves healthy relationships, safe sexual practices, and addressing concerns like low libido, erectile dysfunction, or hormonal imbalances. Testing for sexual wellness may include hormone level checks, STD screening, and fertility assessments to ensure optimal sexual health and function.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "SEXUAL WELLNESS - FEMALE",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "4499",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Sexual wellness encompasses physical, emotional, and psychological well-being related to sexual health. It involves healthy relationships, safe sexual practices, and addressing concerns like low libido, erectile dysfunction, or hormonal imbalances. Testing for sexual wellness may include hormone level checks, STD screening, and fertility assessments to ensure optimal sexual health and function.",
+                            "avilable_type": "",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                                    "test_sample": [
+                                        "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                        "THYROXINE (T4, TOTAL)",
+                                        "TSH (Ultrasensitive/4thGen)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "HBSAG QUALITATIVE (1)",
+                                    "test_sample": [
+                                        "HBsAg"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "HIV 1 AND 2 ANTIBODIES (1)",
+                                    "test_sample": [
+                                        "HIV I AND II ANTIBODIES"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "CHLAMYDIA TRACHOMATIS IGG (1)",
+                                    "test_sample": [
+                                        "CHLAMYDIA TRACHOMATIS IGG"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "ESTRADIOL (E2) (1)",
+                                    "test_sample": [
+                                        "ESTRADIOL (E2)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.9",
+                                    "test_name": "VDRL (RPR WITH TITRE) (2)",
+                                    "test_sample": [
+                                        "VDRL (RPR)",
+                                        "TITRE"
+                                    ]
+                                },
+                                {
+                                    "id": "1.10",
+                                    "test_name": "MAGNESIUM - SERUM (1)",
+                                    "test_sample": [
+                                        "MAGNESIUM (SERUM)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.11",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "TOTAL CHOLESTEROL",
+                                        "TRIGLYCERIDES",
+                                        "HDL CHOLESTEROL",
+                                        "NON-HDL CHOLESTEROL",
+                                        "LDL CHOLESTEROL",
+                                        "VLDL CHOLESTEROL",
+                                        "CHOL / HDL RATIO",
+                                        "ATHEROGENIC INDEX (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.12",
+                                    "test_name": "PROLACTIN (1)",
+                                    "test_sample": [
+                                        "PROLACTIN"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1",
+                            "test_name": "SEXUAL WELLNESS - MALE",
+                            "test_sample": "Blood, Urine",
+                            "test_price": "4499",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Sexual wellness tests are essential for men's health, helping identify potential issues like erectile dysfunction, infertility, and prostate problems. These tests can detect hormonal imbalances, inflammation, and oxidative stress, providing insights into overall sexual health and well-being. Regular monitoring can help you understand your risk levels and take preventive measures to protect your health.",
+                            "avilable_type": "",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                                    "test_sample": [
+                                        "Haemoglobin",
+                                        "PCV (Packed Cell Volume)",
+                                        "RBC Count",
+                                        "MCV",
+                                        "MCH",
+                                        "MCHC",
+                                        "RDW",
+                                        "Total Leucocyte Count (TLC)",
+                                        "Differential Leucocytic Count (DLC)",
+                                        "Neutrophils",
+                                        "Lymphocytes",
+                                        "Eosinophils",
+                                        "Monocytes",
+                                        "Basophils",
+                                        "Blasts",
+                                        "Pro-Myelocytes",
+                                        "Myelocytes",
+                                        "Meta-Myelocytes",
+                                        "Band Cells",
+                                        "Prolymphocytes",
+                                        "Atypical Cells",
+                                        "NRBCs / 100 WBC",
+                                        "Corrected TLC",
+                                        "Absolute Leucocyte Count - Neutrophils",
+                                        "Absolute Leucocyte Count - Lymphocytes",
+                                        "Absolute Leucocyte Count - Eosinophils",
+                                        "Absolute Leucocyte Count - Monocytes",
+                                        "Absolute Leucocyte Count - Basophils",
+                                        "Neutrophil Lymphocyte Ratio (NLR)",
+                                        "Platelet Count",
+                                        "Mean Platelet Volume (MPV)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                                    "test_sample": [
+                                        "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                        "THYROXINE (T4, TOTAL)",
+                                        "TSH (Ultrasensitive/4thGen)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                                    "test_sample": [
+                                        "Physical Examination",
+                                        "Colour",
+                                        "Transparency",
+                                        "pH",
+                                        "Specific Gravity",
+                                        "Biochemical Examination",
+                                        "Urine Protein",
+                                        "Glucose",
+                                        "Urine Bilirubin",
+                                        "Urine Ketones (Random)",
+                                        "Urobilinogen",
+                                        "Nitrite",
+                                        "Leucocyte Esterase",
+                                        "Centrifuged Sediment Wet Mount and Microscopy",
+                                        "Pus Cells",
+                                        "Epithelial Cells",
+                                        "Red Blood Cells (RBC)",
+                                        "Casts",
+                                        "Crystals",
+                                        "Others"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "HBSAG QUALITATIVE (1)",
+                                    "test_sample": [
+                                        "HBsAg"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "HIV 1 AND 2 ANTIBODIES (1)",
+                                    "test_sample": [
+                                        "HIV I AND II ANTIBODIES"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "C-REACTIVE PROTEIN (CRP) - QUALITATIVE (2)",
+                                    "test_sample": [
+                                        "C-REACTIVE PROTEIN (QUALITATIVE)",
+                                        "TITER"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                                    "test_sample": [
+                                        "ESR"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "13",
+                    "package_name": "Sleep Disorder",
+                    "image": "",
+                    "description": "Sleep disorders are conditions that affect the quality, timing, and duration of sleep, leading to impaired daytime functioning. Common sleep disorders include insomnia (difficulty falling or staying asleep), sleep apnea (interrupted breathing during sleep), restless legs syndrome (uncomfortable sensations in the legs), and narcolepsy (excessive daytime sleepiness). Blood tests may also be used to rule out conditions like thyroid problems or nutrient deficiencies affecting sleep.",
+                    "test_included": [
+                        {
+                            "id": "1",
+                            "test_name": "SLEEP DISORDER PANEL",
+                            "test_sample": "Blood",
+                            "test_price": "2999",
+                            "pre_test_information": "",
+                            "test_result_time": "1 Days",
+                            "test_description": "Sleep disorders involve problems with the quality, timing, and amount of sleep, which result in daytime distress and impairment in functioning. The cumulative effects of sleep loss and sleep disorders have been associated with a wide range of deleterious health consequences including an increased risk of hypertension, diabetes, obesity, depression, heart attack, and stroke.Incidence: 5.4% Indian Population in age group 30-69 are at severe risk of sleep disorders (Source: Lancet Study on Sleep and Sleep disorders)",
+                            "avilable_type": "",
+                            "test_includes": [
+                                {
+                                    "id": "1.1",
+                                    "test_name": "MAGNESIUM - SERUM (1)",
+                                    "test_sample": [
+                                        "MAGNESIUM"
+                                    ]
+                                },
+                                {
+                                    "id": "1.2",
+                                    "test_name": "TRACE METAL - ZINC (SERUM) (1)",
+                                    "test_sample": [
+                                        "ZINC"
+                                    ]
+                                },
+                                {
+                                    "id": "1.3",
+                                    "test_name": "C-REACTIVE PROTEIN (CRP) - QUALITATIVE (2)",
+                                    "test_sample": [
+                                        "C-REACTIVE PROTEIN (QUALITATIVE)",
+                                        "TITER"
+                                    ]
+                                },
+                                {
+                                    "id": "1.4",
+                                    "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                                    "test_sample": [
+                                        "HBA1C, GLYCATED HEMOGLOBIN",
+                                        "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                        "COMMENTS"
+                                    ]
+                                },
+                                {
+                                    "id": "1.5",
+                                    "test_name": "VITAMIN B12 (1)",
+                                    "test_sample": [
+                                        "VITAMIN B12"
+                                    ]
+                                },
+                                {
+                                    "id": "1.6",
+                                    "test_name": "LIPID PROFILE (8)",
+                                    "test_sample": [
+                                        "Total Cholesterol",
+                                        "Triglycerides",
+                                        "HDL Cholesterol",
+                                        "LDL Cholesterol",
+                                        "VLDL Cholesterol",
+                                        "Non-HDL Cholesterol",
+                                        "Chol / HDL Ratio",
+                                        "Atherogenic Index (AIP)"
+                                    ]
+                                },
+                                {
+                                    "id": "1.7",
+                                    "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                                    "test_sample": [
+                                        "Fasting Glucose",
+                                        "Insulin (Fasting)",
+                                        "HOMA2 IR Index",
+                                        "Insulin Sensitivity (%S)",
+                                        "Beta Cell Function (%B)",
+                                        "QUICKI"
+                                    ]
+                                },
+                                {
+                                    "id": "1.8",
+                                    "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                                    "test_sample": [
+                                        "VITAMIN D (25 - OH VITAMIN D)"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
