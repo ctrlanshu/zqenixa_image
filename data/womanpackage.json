@@ -1,0 +1,1477 @@
+{
+    "package_id": "PKG009",
+    "package_name": "Women Health Packages",
+    "category": "Women Health Packages",
+    "description": "",
+    "recommended_for": [
+        {
+            "id": "1",
+            "package_name": "PCOD",
+            "image": "https://github.com/ctrlanshu/zqenixa_image/blob/main/labtest/pcod.webp?raw=true",
+            "description": "PCOD (Polycystic Ovarian Disease) is diagnosed through a combination of medical history, blood tests, and ultrasound. Doctors look for irregular periods, elevated androgen levels, and the presence of multiple small cysts in the ovaries through a pelvic ultrasound. Blood tests check for hormone imbalances and insulin resistance. Symptoms like weight gain, acne, and excessive hair growth are also evaluated. Early detection of PCOD is important for managing symptoms and preventing complications such as diabetes and infertility.",
+            "test_included": [
+                {
+                    "id": "1",
+                    "test_name": "HEALTH PCOD BASIC",
+                    "test_sample": "Blood",
+                    "test_price": "1899",
+                    "pre_test_information": "",
+                    "test_result_time": "1 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "INSULIN (FASTING) (1)",
+                            "test_sample": [
+                                "INSULIN (FASTING)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID STIMULATING HORMONE (TSH) (1)",
+                            "test_sample": [
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "test_name": " PCOD ADVANCED",
+                    "test_sample": "Blood",
+                    "test_price": "2899",
+                    "pre_test_information": "",
+                    "test_result_time": "1 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF)",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "17-ALPHA-HYDROXYPROGESTERONE (17-OHP) (1)",
+                            "test_sample": [
+                                "17-ALPHA-HYDROXYPROGESTERONE (17-OHP)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "INSULIN (FASTING) (1)",
+                            "test_sample": [
+                                "INSULIN (FASTING)"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID STIMULATING HORMONE (TSH) (1)",
+                            "test_sample": [
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "DEHYDROEPIANDROSTERONE SULPHATE (DHEAS) (1)",
+                            "test_sample": [
+                                "DEHYDROEPIANDROSTERONE SULPHATE - (DHEAS)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "test_name": "PCOD COMPREHENSIVE",
+                    "test_sample": "Blood",
+                    "test_price": "3999",
+                    "pre_test_information": "",
+                    "test_result_time": "2 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF)",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "DEHYDROEPIANDROSTERONE SULPHATE (DHEAS) (1)",
+                            "test_sample": [
+                                "DEHYDROEPIANDROSTERONE SULPHATE - (DHEAS)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "17-ALPHA-HYDROXYPROGESTERONE (17-OHP) (1)",
+                            "test_sample": [
+                                "17-ALPHA-HYDROXYPROGESTERONE (17-OHP)"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "ANTI MULLERIAN HORMONE (AMH) (1)",
+                            "test_sample": [
+                                "ANTI MULLERIAN HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.10",
+                            "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                            "test_sample": [
+                                "INSULIN (FASTING)",
+                                "FASTING GLUCOSE",
+                                "BETA CELL FUNCTION (%B)",
+                                "INSULIN SENSITIVITY (%S)",
+                                "HOMA2 IR INDEX",
+                                "QUICKI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "package_name": "PCOS",
+            "image": "https://github.com/ctrlanshu/zqenixa_image/blob/main/labtest/pcos.webp?raw=true",
+            "description": "PCOS (Polycystic Ovary Syndrome) is diagnosed through a combination of medical history, physical exams, and tests. Key tests include blood tests to measure hormone levels, check for insulin resistance, and rule out other conditions like thyroid disorders. A pelvic ultrasound is often used to detect multiple cysts on the ovaries, a common sign of PCOS. Doctors may also assess symptoms like irregular periods, excess hair growth, and acne. Diagnosis typically follows the Rotterdam Criteria, requiring two of three indicators: irregular periods, elevated androgens, or polycystic ovaries. Early diagnosis helps manage symptoms and prevent complications.",
+            "test_included": [
+                {
+                    "id": "1",
+                    "test_name": "PCOD BASIC",
+                    "test_sample": "Blood",
+                    "test_price": "1899",
+                    "pre_test_information": "",
+                    "test_result_time": "1 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "INSULIN (FASTING) (1)",
+                            "test_sample": [
+                                "INSULIN (FASTING)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID STIMULATING HORMONE (TSH) (1)",
+                            "test_sample": [
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "test_name": " PCOD ADVANCED",
+                    "test_sample": "Blood",
+                    "test_price": "2899",
+                    "pre_test_information": "",
+                    "test_result_time": "1 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF)",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "17-ALPHA-HYDROXYPROGESTERONE (17-OHP) (1)",
+                            "test_sample": [
+                                "17-ALPHA-HYDROXYPROGESTERONE (17-OHP)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "INSULIN (FASTING) (1)",
+                            "test_sample": [
+                                "INSULIN (FASTING)"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID STIMULATING HORMONE (TSH) (1)",
+                            "test_sample": [
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "DEHYDROEPIANDROSTERONE SULPHATE (DHEAS) (1)",
+                            "test_sample": [
+                                "DEHYDROEPIANDROSTERONE SULPHATE - (DHEAS)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "test_name": "PCOD COMPREHENSIVE",
+                    "test_sample": "Blood",
+                    "test_price": "3999",
+                    "pre_test_information": "",
+                    "test_result_time": "2 Days",
+                    "test_description": "Polycystic ovarian disease (PCOD) is a hormonal imbalance caused by the ovaries. PCOD is one of the most common causes of female infertility. It can also increase your risk for other health conditions.Incidence: 22.5% of Women in Indian population have PCOD which is 1 in every 5 women (Source: UNICEF)",
+                    "avilable_type": "Home Collection Available",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "TESTOSTERONE (TOTAL) (1)",
+                            "test_sample": [
+                                "TESTOSTERONE, TOTAL"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "LH LUTEINIZING HORMONE (1)",
+                            "test_sample": [
+                                "LH:LUTEINIZING HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "FOLLICLE STIMULATING HORMONE (FSH) (1)",
+                            "test_sample": [
+                                "FOLLICLE STIMULATING HORMONE (FSH)"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "PROLACTIN (1)",
+                            "test_sample": [
+                                "PROLACTIN"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "DEHYDROEPIANDROSTERONE SULPHATE (DHEAS) (1)",
+                            "test_sample": [
+                                "DEHYDROEPIANDROSTERONE SULPHATE - (DHEAS)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "17-ALPHA-HYDROXYPROGESTERONE (17-OHP) (1)",
+                            "test_sample": [
+                                "17-ALPHA-HYDROXYPROGESTERONE (17-OHP)"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "ANTI MULLERIAN HORMONE (AMH) (1)",
+                            "test_sample": [
+                                "ANTI MULLERIAN HORMONE"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.10",
+                            "test_name": "HOMA2 IR (INSULIN RESISTANCE INDEX) (6)",
+                            "test_sample": [
+                                "INSULIN (FASTING)",
+                                "FASTING GLUCOSE",
+                                "BETA CELL FUNCTION (%B)",
+                                "INSULIN SENSITIVITY (%S)",
+                                "HOMA2 IR INDEX",
+                                "QUICKI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "package_name": "Pregnancy",
+            "image": "https://github.com/ctrlanshu/zqenixa_image/blob/main/labtest/Pregnancy.webp?raw=true",
+            "description": "Pregnancy, a transformative period in a woman's life, brings about significant physical, emotional, and psychological changes. During this time, maintaining optimal health is crucial for both the mother and the developing baby. A balanced diet rich in essential nutrients, including folic acid, iron, calcium, and protein, supports the growth and development of the fetus while keeping the mother healthy. Regular prenatal check-ups are essential to monitor the progress of the pregnancy, screen for potential complications, and provide necessary interventions.",
+            "test_included": [
+                {
+                    "id": "1",
+                    "test_name": "Pregnancy Package Advance",
+                    "test_sample": "",
+                    "test_price": "1899",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "HEMOGRAM (34)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV",
+                                "ESR",
+                                "PERIPHERAL SMEAR"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                            "test_sample": [
+                                "Physical Examination",
+                                "COLOUR",
+                                "TRANSPARENCY",
+                                "pH",
+                                "SP. GRAVITY",
+                                "BIOCHEMICAL EXAMINATION",
+                                "URINE PROTEIN",
+                                "GLUCOSE",
+                                "URINE BILIRUBIN",
+                                "URINE KETONES (RANDOM)",
+                                "UROBILINOGEN",
+                                "NITRITE",
+                                "LEUCOCYTE ESTERASE",
+                                "CENTRIFUGED SEDIMENT WET MOUNT AND MICROSCOPY",
+                                "Pus Cells",
+                                "EPITHELIAL CELLS",
+                                "RBC",
+                                "CASTS",
+                                "CRYSTALS",
+                                "OTHERS"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                            "test_sample": [
+                                "HBA1C, GLYCATED HEMOGLOBIN",
+                                "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                "COMMENTS"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "ABNORMAL HB STUDIES (HPLC/ELECTROPHORESIS) (19)",
+                            "test_sample": [
+                                "FETAL HEMOGLOBIN (HbF)",
+                                "HEMOGLOBIN A (HbA)",
+                                "HEMOGLOBIN A2 (HbA2)",
+                                "HEMOGLOBIN C (HbC)",
+                                "HEMOGLOBIN D (HbD)",
+                                "HEMOGLOBIN S (HbS)",
+                                "HEMOGLOBIN E (HbE)",
+                                "P2 WINDOW",
+                                "P3 WINDOW",
+                                "OTHERS",
+                                "HAEMOGLOBIN",
+                                "RBC COUNT",
+                                "PCV",
+                                "MCH",
+                                "MCHC",
+                                "MCV",
+                                "R.D.W",
+                                "PERIPHERAL SMEAR FINDING",
+                                "INTERPRETATION"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "BLOOD GROUP ABO AND RH FACTOR (11)",
+                            "test_sample": [
+                                "Forward Grouping",
+                                "Anti A",
+                                "Anti B",
+                                "Anti D",
+                                "Reverse Grouping",
+                                "A Cells",
+                                "B Cells",
+                                "O Cells",
+                                "BLOOD GROUP TYPE",
+                                "Rh TYPE",
+                                "Comment"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "HEPATITIS B E ANTIBODY (HBeAb) (1)",
+                            "test_sample": [
+                                "HEPATITIS B E ANTIBODY (ANTI HB E)"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "HIV 1 AND 2 ANTIBODIES (1)",
+                            "test_sample": [
+                                "HIV I AND II ANTIBODIES"
+                            ]
+                        },
+                        {
+                            "id": "1.10",
+                            "test_name": "RUBELLA ANTIBODIES IGG & IGM (2)",
+                            "test_sample": [
+                                "RUBELLA IgG ANTIBODIES",
+                                "RUBELLA IgM ANTIBODIES"
+                            ]
+                        },
+                        {
+                            "id": "1.11",
+                            "test_name": "VDRL (RPR WITH TITRE) (2)",
+                            "test_sample": [
+                                "VDRL (RPR)",
+                                "TITRE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "test_name": " Pregnancy Special Package",
+                    "test_sample": "",
+                    "test_price": "4599",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "IRON STUDIES (IRON + TIBC) (4)",
+                            "test_sample": [
+                                "IRON",
+                                "TOTAL IRON BINDING CAPACITY (TIBC)",
+                                "UNSATURATED IRON BINDING CAPACITY (UIBC)",
+                                "% OF TRANSFERRIN SATURATION"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "FOLIC ACID (1)",
+                            "test_sample": [
+                                "FOLIC ACID / FOLATE - SERUM"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                            "test_sample": [
+                                "Physical Examination",
+                                "COLOUR",
+                                "TRANSPARENCY",
+                                "pH",
+                                "SP. GRAVITY",
+                                "BIOCHEMICAL EXAMINATION",
+                                "URINE PROTEIN",
+                                "GLUCOSE",
+                                "URINE BILIRUBIN",
+                                "URINE KETONES (RANDOM)",
+                                "UROBILINOGEN",
+                                "NITRITE",
+                                "LEUCOCYTE ESTERASE",
+                                "CENTRIFUGED SEDIMENT WET MOUNT AND MICROSCOPY",
+                                "Pus Cells",
+                                "EPITHELIAL CELLS",
+                                "RBC",
+                                "CASTS",
+                                "CRYSTALS",
+                                "OTHERS"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                            "test_sample": [
+                                "HBA1C, GLYCATED HEMOGLOBIN",
+                                "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                "COMMENTS"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "MATERNAL SCREENING FIRST TRIMESTER- DUAL/DOUBLE MARKER WITH AFP (2)",
+                            "test_sample": [
+                                "PAPP-A",
+                                "ALPHA FETOPROTEIN"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "package_name": "Full Body",
+            "image": "https://github.com/ctrlanshu/zqenixa_image/blob/main/labtest/fullbody.webp?raw=true",
+            "description": "A full body test, often referred to as a comprehensive health check-up or executive health check-up, is an extensive medical examination that aims to assess the overall health and well-being of an individual. It typically includes a variety of tests and screenings designed to detect potential health issues early, even before symptoms appear. This is especially beneficial for individuals between the ages of 30 and 45, as it can help identify and manage health risks that tend to increase with age.",
+            "test_included": [
+                {
+                    "id": "1",
+                    "test_name": "Basic",
+                    "test_sample": "",
+                    "test_price": "1699",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                            "test_sample": [
+                                "ESR"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                            "test_sample": [
+                                "BILIRUBIN, TOTAL",
+                                "BILIRUBIN CONJUGATED (DIRECT)",
+                                "BILIRUBIN (INDIRECT)",
+                                "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                "ALKALINE PHOSPHATASE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                            "test_sample": [
+                                "CREATININE",
+                                "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE",
+                                "UREA",
+                                "BLOOD UREA NITROGEN",
+                                "URIC ACID",
+                                "CALCIUM",
+                                "PHOSPHORUS, INORGANIC",
+                                "SODIUM",
+                                "POTASSIUM",
+                                "CHLORIDE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "test_name": "Comprehensive",
+                    "test_sample": "",
+                    "test_price": "4399",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                            "test_sample": [
+                                "ESR"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                            "test_sample": [
+                                "BILIRUBIN, TOTAL",
+                                "BILIRUBIN CONJUGATED (DIRECT)",
+                                "BILIRUBIN (INDIRECT)",
+                                "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                "ALKALINE PHOSPHATASE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                            "test_sample": [
+                                "CREATININE",
+                                "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE",
+                                "UREA",
+                                "BLOOD UREA NITROGEN",
+                                "URIC ACID",
+                                "CALCIUM",
+                                "PHOSPHORUS, INORGANIC",
+                                "SODIUM",
+                                "POTASSIUM",
+                                "CHLORIDE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "VITAMIN B12 (1)",
+                            "test_sample": [
+                                "VITAMIN B12"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                            "test_sample": [
+                                "HBA1C, GLYCATED HEMOGLOBIN",
+                                "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                "COMMENTS"
+                            ]
+                        },
+                        {
+                            "id": "1.10",
+                            "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                            "test_sample": [
+                                "VITAMIN D (25 - OH VITAMIN D)"
+                            ]
+                        },
+                        {
+                            "id": "1.11",
+                            "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                            "test_sample": [
+                                "Physical Examination",
+                                "COLOUR",
+                                "TRANSPARENCY",
+                                "pH",
+                                "SP. GRAVITY",
+                                "BIOCHEMICAL EXAMINATION",
+                                "URINE PROTEIN",
+                                "GLUCOSE",
+                                "URINE BILIRUBIN",
+                                "URINE KETONES (RANDOM)",
+                                "UROBILINOGEN",
+                                "NITRITE",
+                                "LEUCOCYTE ESTERASE",
+                                "CENTRIFUGED SEDIMENT WET MOUNT AND MICROSCOPY",
+                                "Pus Cells",
+                                "EPITHELIAL CELLS",
+                                "RBC",
+                                "CASTS",
+                                "CRYSTALS",
+                                "OTHERS"
+                            ]
+                        },
+                        {
+                            "id": "1.12",
+                            "test_name": "IRON STUDIES (IRON + TIBC) (4)",
+                            "test_sample": [
+                                "IRON",
+                                "TOTAL IRON BINDING CAPACITY (TIBC)",
+                                "UNSATURATED IRON BINDING CAPACITY (UIBC)",
+                                "% OF TRANSFERRIN SATURATION"
+                            ]
+                        },
+                        {
+                            "id": "1.13",
+                            "test_name": "C-REACTIVE PROTEIN (CRP) - QUANTITATIVE (1)",
+                            "test_sample": [
+                                "C-REACTIVE PROTEIN (CRP) - QUANTITATIVE "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "test_name": "Master check",
+                    "test_sample": "",
+                    "test_price": "2999",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                            "test_sample": [
+                                "BILIRUBIN, TOTAL",
+                                "BILIRUBIN CONJUGATED (DIRECT)",
+                                "BILIRUBIN (INDIRECT)",
+                                "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                "ALKALINE PHOSPHATASE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                            "test_sample": [
+                                "CREATININE",
+                                "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE",
+                                "UREA",
+                                "BLOOD UREA NITROGEN",
+                                "URIC ACID",
+                                "CALCIUM",
+                                "PHOSPHORUS, INORGANIC",
+                                "SODIUM",
+                                "POTASSIUM",
+                                "CHLORIDE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                            "test_sample": [
+                                "HBA1C, GLYCATED HEMOGLOBIN",
+                                "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                "COMMENTS"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                            "test_sample": [
+                                "VITAMIN D (25 - OH VITAMIN D)"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                            "test_sample": [
+                                "Physical Examination",
+                                "COLOUR",
+                                "TRANSPARENCY",
+                                "pH",
+                                "SP. GRAVITY",
+                                "BIOCHEMICAL EXAMINATION",
+                                "URINE PROTEIN",
+                                "GLUCOSE",
+                                "URINE BILIRUBIN",
+                                "URINE KETONES (RANDOM)",
+                                "UROBILINOGEN",
+                                "NITRITE",
+                                "LEUCOCYTE ESTERASE",
+                                "CENTRIFUGED SEDIMENT WET MOUNT AND MICROSCOPY",
+                                "Pus Cells",
+                                "EPITHELIAL CELLS",
+                                "RBC",
+                                "CASTS",
+                                "CRYSTALS",
+                                "OTHERS"
+                            ]
+                        },
+                        {
+                            "id": "1.11",
+                            "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                            "test_sample": [
+                                "ESR"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "test_name": "Senior Citizen- Female",
+                    "test_sample": "",
+                    "test_price": "4499",
+                    "pre_test_information": "",
+                    "test_result_time": "",
+                    "test_description": "",
+                    "avilable_type": "",
+                    "test_includes": [
+                        {
+                            "id": "1.1",
+                            "test_name": "COMPLETE BLOOD COUNT (CBC) (32)",
+                            "test_sample": [
+                                "HAEMOGLOBIN",
+                                "PCV",
+                                "RBC COUNT",
+                                "MCV",
+                                "MCH",
+                                "MCHC",
+                                "R.D.W",
+                                "TOTAL LEUCOCYTE COUNT (TLC)",
+                                "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+                                "NEUTROPHILS",
+                                "LYMPHOCYTES",
+                                "EOSINOPHILS",
+                                "MONOCYTES",
+                                "BASOPHILS",
+                                "BLASTS",
+                                "PRO-MYELOCYTES",
+                                "MYELOCYTES",
+                                "META-MYELOCYTE",
+                                "BANDS",
+                                "PROLYMPHOCYTES",
+                                "ATYPICAL CELLS",
+                                "NRBC s/100 WBC",
+                                "CORRECTED TLC",
+                                "ABSOLUTE LEUCOCYTE COUNT",
+                                "NEUTROPHILS (ABSOLUTE)",
+                                "LYMPHOCYTES (ABSOLUTE)",
+                                "EOSINOPHILS (ABSOLUTE)",
+                                "MONOCYTES (ABSOLUTE)",
+                                "BASOPHILS (ABSOLUTE)",
+                                "Neutrophil lymphocyte ratio (NLR)",
+                                "PLATELET COUNT",
+                                "MPV"
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "test_name": "GLUCOSE, FASTING (1)",
+                            "test_sample": [
+                                "GLUCOSE, FASTING"
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "test_name": "LIVER FUNCTION TEST (LFT) (11)",
+                            "test_sample": [
+                                "BILIRUBIN, TOTAL",
+                                "BILIRUBIN CONJUGATED (DIRECT)",
+                                "BILIRUBIN (INDIRECT)",
+                                "ALANINE AMINOTRANSFERASE (ALT/SGPT)",
+                                "ASPARTATE AMINOTRANSFERASE (AST/SGOT)",
+                                "AST (SGOT) / ALT (SGPT) RATIO (DE RITIS)",
+                                "ALKALINE PHOSPHATASE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "test_name": "RENAL PROFILE/KIDNEY FUNCTION TEST (RFT/KFT) (14)",
+                            "test_sample": [
+                                "CREATININE",
+                                "eGFR - ESTIMATED GLOMERULAR FILTRATION RATE",
+                                "UREA",
+                                "BLOOD UREA NITROGEN",
+                                "URIC ACID",
+                                "CALCIUM",
+                                "PHOSPHORUS, INORGANIC",
+                                "SODIUM",
+                                "POTASSIUM",
+                                "CHLORIDE",
+                                "PROTEIN, TOTAL",
+                                "ALBUMIN",
+                                "GLOBULIN",
+                                "A/G RATIO"
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "test_name": "LIPID PROFILE (8)",
+                            "test_sample": [
+                                "TOTAL CHOLESTEROL",
+                                "TRIGLYCERIDES",
+                                "HDL CHOLESTEROL",
+                                "NON-HDL CHOLESTEROL",
+                                "LDL CHOLESTEROL",
+                                "VLDL CHOLESTEROL",
+                                "CHOL / HDL RATIO",
+                                "ATHEROGENIC INDEX (AIP)"
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "test_name": "THYROID PROFILE TOTAL (T3, T4, TSH) (3)",
+                            "test_sample": [
+                                "TRI-IODOTHYRONINE (T3, TOTAL)",
+                                "THYROXINE (T4, TOTAL)",
+                                "TSH (Ultrasensitive/4thGen)"
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "test_name": "HBA1C (GLYCATED HEMOGLOBIN) (3)",
+                            "test_sample": [
+                                "HBA1C, GLYCATED HEMOGLOBIN",
+                                "ESTIMATED AVERAGE GLUCOSE (eAG)",
+                                "COMMENTS"
+                            ]
+                        },
+                        {
+                            "id": "1.8",
+                            "test_name": "25-HYDROXY VITAMIN D (D2+D3) (1)",
+                            "test_sample": [
+                                "VITAMIN D (25 - OH VITAMIN D)"
+                            ]
+                        },
+                        {
+                            "id": "1.9",
+                            "test_name": "COMPLETE URINE EXAMINATION (CUE) (20)",
+                            "test_sample": [
+                                "Physical Examination",
+                                "COLOUR",
+                                "TRANSPARENCY",
+                                "pH",
+                                "SP. GRAVITY",
+                                "BIOCHEMICAL EXAMINATION",
+                                "URINE PROTEIN",
+                                "GLUCOSE",
+                                "URINE BILIRUBIN",
+                                "URINE KETONES (RANDOM)",
+                                "UROBILINOGEN",
+                                "NITRITE",
+                                "LEUCOCYTE ESTERASE",
+                                "CENTRIFUGED SEDIMENT WET MOUNT AND MICROSCOPY",
+                                "Pus Cells",
+                                "EPITHELIAL CELLS",
+                                "RBC",
+                                "CASTS",
+                                "CRYSTALS",
+                                "OTHERS"
+                            ]
+                        },
+                        {
+                            "id": "1.11",
+                            "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR) (1)",
+                            "test_sample": [
+                                "ESR"
+                            ]
+                        },
+                        {
+                            "id": "1.12",
+                            "test_name": "VITAMIN B12 (1)",
+                            "test_sample": [
+                                "VITAMIN B12"
+                            ]
+                        },
+                        {
+                            "id": "1.13",
+                            "test_name": "CA 125 (1)",
+                            "test_sample": [
+                                "CA-125"
+                            ]
+                        },
+                        {
+                            "id": "1.14",
+                            "test_name": "RHEUMATOID FACTOR (RA) - QUANTITATIVE (1)",
+                            "test_sample": [
+                                "RHEUMATOID FACTOR"
+                            ]
+                        },
+                        {
+                            "id": "1.15",
+                            "test_name": "C-REACTIVE PROTEIN (CRP) - QUANTITATIVE (1)",
+                            "test_sample": [
+                                "C-REACTIVE PROTEIN CRP (QUANTITATIVE)"
+                            ]
+                        },
+                        {
+                            "id": "1.16",
+                            "test_name": "FERRITIN (1)",
+                            "test_sample": [
+                                "FERRITIN"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
